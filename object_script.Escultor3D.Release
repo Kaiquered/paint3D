@@ -1,0 +1,11 @@
+release/colorwindow.o
+release/dialogdim.o
+release/main.o
+release/mainwindow.o
+release/plotter.o
+release/sculptor.o
+release/qrc_imagens.o
+release/moc_colorwindow.o
+release/moc_dialogdim.o
+release/moc_mainwindow.o
+release/moc_plotter.o

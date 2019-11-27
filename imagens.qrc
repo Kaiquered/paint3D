@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/300px-Ellipse_black.svg.png</file>
+        <file>images/84583.png</file>
+        <file>images/blue-icon-hi.png</file>
+        <file>images/com.pandaz.app.forcequit.png</file>
+        <file>images/cutesfera.png</file>
+        <file>images/elipse-512.png</file>
+        <file>images/Files-New-File-icon.png</file>
+        <file>images/images.png</file>
+        <file>images/pngtree-vector-drawing-brush-icon-png-image_313055.jpg</file>
+        <file>images/putbox.png</file>
+        <file>images/save-icon-4.png</file>
+    </qresource>
+</RCC>
