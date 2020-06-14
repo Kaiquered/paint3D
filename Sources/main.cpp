@@ -1,3 +1,16 @@
+/***************************************************
+Universidade Federal do Rio Grande do Norte
+
+Projeto desenvolvido na disciplina DCA1202: Programação Avançada
+
+Desenvolvido por: Kaíque Gomes Machado , Marlucy Barbosa Costa
+
+Orientação: Prof. Dr. Agostinho De Medeiros Brito Junior
+
+2019
+****************************************************
+*/
+
 #include "mainwindow.h"
 #include <QApplication>
 
