@@ -13,3 +13,7 @@ Projeto desenvolvido na disciplina DCA1202: Programação Avançada. UFRN
 
 # Interface Gráfica
 ![Tela Inicial](https://github.com/Kaiquered/Paint3D/blob/master/Prints/Interface.png)
+
+# Exemplo de Uso
+![Exemplo Bandeira de Pernambuco](https://github.com/Kaiquered/EscutorDigital/blob/master/Exemplos%20de%20Figuras/Pernambuco.jpg)
+<p>Bandeira do Estado de Pernambuco (Brasil)</p>
